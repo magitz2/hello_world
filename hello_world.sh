@@ -3,5 +3,5 @@
 # This is our first script.
 
 echo 'Hello World!'
-echo "This is great!"
+echo "This is amazing!"
 
